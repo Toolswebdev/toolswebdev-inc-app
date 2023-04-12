@@ -7,9 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 1.0.3   | :white_check_mark: |
 | 1.0.2   | :white_check_mark: |
 | 1.0.1   | :white_check_mark: |
-| 1.0.0   | :white_check_mark: |
+| 1.0.0   | :x:                |
 | 9.8     | :x:                |
 
 ## Reporting a Vulnerability
@@ -19,6 +20,8 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
+
+# USER DATA POLICY
 
 Welcome to our messaging app! We take user privacy and data protection seriously, and we are committed to providing our users with a safe and secure experience. This User Data Policy outlines how we collect, use, and protect your personal information.
 
