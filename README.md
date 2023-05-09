@@ -4,13 +4,14 @@
  | EU | ✅ Stable |  
  | North America | ✅ Stable |  
  | South America | ✅ Stable |  
+ | Africa | ⚠️ not that stable | 
  | Asia | ⚠️ not that stable | 
- |----------|----------|
 
-# ⚠️ inportint information ⚠️
+# ⚠️ information ⚠️
 
 in Asia this will not working some country
 like Iran,Afghanistan and more
+and in Africa there's no internet cannot be accessed to our website
 
 # toolswebdev-inc-app
 Updates for toolswebdev, inc™
