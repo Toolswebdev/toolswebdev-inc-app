@@ -9,7 +9,7 @@
 
 # ⚠️ inportint information ⚠️
 
-in Asia this will not working some contries
+in Asia this will not working some country
 like Iran,Afghanistan and more
 
 # toolswebdev-inc-app
