@@ -1,8 +1,12 @@
 # information status
-| Platform |Status | 
+| country |Status | 
  |----------|----------|
- | Android | ✅ Stable |  
- | Web| ⚠️ Beta | 
+ | EU | ✅ Stable |  
+ | North America | ✅ Stable |  
+ | South America | ✅ Stable |  
+ | Asia | ⚠️ not that stable | 
+in Asia this will not working some contries
+like Iran,Afghanistan and more
 
 # toolswebdev-inc-app
 Updates for toolswebdev, inc™
