@@ -1,3 +1,9 @@
+# information status
+| Platform |Status | 
+ |----------|----------|
+ | Android | ✅ Stable |  
+ | Web| ⚠️ Beta | 
+
 # toolswebdev-inc-app
 Updates for toolswebdev, inc™
 
