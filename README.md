@@ -5,6 +5,10 @@
  | North America | ✅ Stable |  
  | South America | ✅ Stable |  
  | Asia | ⚠️ not that stable | 
+ |----------|----------|
+
+# ⚠️ inportint information ⚠️
+
 in Asia this will not working some contries
 like Iran,Afghanistan and more
 
