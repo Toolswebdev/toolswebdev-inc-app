@@ -1,3 +1,11 @@
+# IMPORTANT INFORMATION
+
+("We") are going to pause the Toolswebdev, Inc™ Application services, the app will be ("as") it ("was") we no longer going to do update, We're going to be fokusing more in our website not the app
+
+Thank you, 
+Toolswebdev, Inc™
+
+
 # information status
 | country |Status | 
  |----------|----------|
